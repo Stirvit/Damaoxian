@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":2,"equips":[2,0,2,3,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"伟子","nickname":"阿伟","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_1","characterIndex":2,"characterName":"Monster","classId":4,"equips":[4,0,0,0,4],"faceIndex":2,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"肖子","nickname":"野猪","note":"","profile":""}
+]

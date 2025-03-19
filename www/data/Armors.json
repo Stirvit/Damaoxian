@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"破旧不堪的木盾，可能被屠夫拿去当过木墩。。？\n提升少量防御和生命值，减少少量敏捷。","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"破旧的 木盾","note":"","params":[10,0,0,10,0,0,-3,0],"price":300},
+{"id":2,"atypeId":3,"description":"丑，太丑了。\n增加少量攻击力和防御力，降低少量魔抗。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"肮脏的 草帽","note":"","params":[0,0,5,3,0,-2,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"它的颜色代表着时间的流逝。\n增加少量生命值和防御。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"破旧的 布衣","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"戒指","note":"","params":[0,0,0,0,10,0,0,0],"price":300}
+]
