@@ -3,6 +3,10 @@
 一款由RPGMAKER MV 制作的小型rpg
 新手制作
 
+可用的前几版游戏可在
+[我的GoogleDrive 链接](https://drive.google.com/drive/folders/10ZkxR5YZwgKHeRW4KYEm7nCT0pW5BYfQ?usp=drive_link)
+找到
+
 感谢所有测试者的支持！
 
 ---
