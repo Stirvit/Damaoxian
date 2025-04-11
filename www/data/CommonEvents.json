@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["Actor3",4,0,2]},{"code":401,"indent":0,"parameters":["伟子："]},{"code":401,"indent":0,"parameters":["。。。"]},{"code":101,"indent":0,"parameters":["Actor3",4,0,2]},{"code":401,"indent":0,"parameters":["伟子："]},{"code":401,"indent":0,"parameters":["我这是在哪。。"]},{"code":101,"indent":0,"parameters":["Actor3",4,0,2]},{"code":401,"indent":0,"parameters":["伟子："]},{"code":401,"indent":0,"parameters":["我重生到异世界了吗"]},{"code":101,"indent":0,"parameters":["Monster",2,0,2]},{"code":401,"indent":0,"parameters":["肖子："]},{"code":401,"indent":0,"parameters":["吵吵什么"]},{"code":401,"indent":0,"parameters":["我都变成这副模样了。"]},{"code":101,"indent":0,"parameters":["Monster",2,0,2]},{"code":401,"indent":0,"parameters":["肖子："]},{"code":401,"indent":0,"parameters":["不管重生成什么样"]},{"code":401,"indent":0,"parameters":["我要去吃猪脚饭。"]},{"code":101,"indent":0,"parameters":["Actor3",4,0,2]},{"code":401,"indent":0,"parameters":["伟子："]},{"code":401,"indent":0,"parameters":["。。。"]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
